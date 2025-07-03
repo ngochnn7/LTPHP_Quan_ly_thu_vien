@@ -1,0 +1,17 @@
+textarea.form-control {
+    height: auto;
+    width: auto;
+}
+input.form-control {
+    height: auto;
+    width: auto;
+}
+.ex_loaisach{
+    width: auto;
+}
+.ex_tacgia{
+    width: auto;
+}
+.ex_khoacn{
+    width: auto;
+}
